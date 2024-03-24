@@ -67,7 +67,7 @@
                   {{ product.subcategory.title }}</span
                 >
                 <div class="cartFlex">
-                  <h4 class="">
+                  <h4 class="cartFlex">
                   <a href="">{{ product.title }}</a>
                 </h4>
                 <div class="">
@@ -518,6 +518,7 @@ a {
 .product-tumb-img {
   display: block;
   max-width: 100%;
+  max-height: 250px
 }
 
 .product-details {
