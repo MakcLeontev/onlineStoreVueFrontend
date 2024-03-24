@@ -11,6 +11,8 @@ npm install
 ```
 npm run serve
 ```
+### Проект будет доступен по адресу 
+http://localhost:8081/
 
 ### Compiles and minifies for production
 ```
