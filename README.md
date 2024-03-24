@@ -1,14 +1,18 @@
-# vue-client-jwt
+# интернет магазин
+Бекенд реализован на Spring Boot 
+https://github.com/MakcLeontev/onlinestore.git
 
-## Project setup
+## Установить 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запустить
 ```
 npm run serve
 ```
+### Проект будет доступен по адресу 
+http://localhost:8081/
 
 ### Compiles and minifies for production
 ```
